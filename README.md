@@ -1,0 +1,3 @@
+# InstaFunc
+
+*InstaFunc* is a
